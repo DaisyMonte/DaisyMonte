@@ -8,10 +8,10 @@
 <div>
   
 <div style="display: inline_block"><br>
-  <img align="left" alt="powerup" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif">
+  <img width="50px" height="50px" align="left" alt="powerup" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif">
   <a align="center" target="_blank" href="https://www.linkedin.com/in/daisymonte"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a align="center" target="_blank" href="https://instagram.com/daisynvolvedora"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <img width="4%" height="4%" align="right" alt="rocket" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif">
+  <img width="50px" height="50px" align="right" alt="rocket" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif">
 </div>
 
   ##
