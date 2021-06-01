@@ -3,14 +3,15 @@
 
 <div align="center">
   <a href="https://github.com/DaisyMonte">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=DaisyMonte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DaisyMonte&theme=dracula"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DaisyMonte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DaisyMonte&theme=dracula"/>
 <div>
   
-<div style="display: inline_block"><br>
-  <img width="50px" height="50px" align="left" alt="powerup" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif">
-  <a align="center" target="_blank" href="https://www.linkedin.com/in/daisymonte"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <img width="50px" height="50px" align="right" alt="rocket" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif">
+<div style="display: inline_block">
+  <br>
+    <img width="50px" height="50px" align="left" alt="powerup" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif">
+    <img width="50px" height="50px" align="right" alt="rocket" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif">
+  <br>
 </div>
 
   ##
@@ -19,4 +20,9 @@
   
    
   ![Snake animation](https://github.com/DaisyMonte/DaisyMonte/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+
+<div align="right">
+  <a target="_blank" href="https://www.linkedin.com/in/daisymonte"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
