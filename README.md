@@ -1,4 +1,4 @@
-## <img align="center" height="40" width="40" src="https://avatars.githubusercontent.com/u/42086423?s=200&v=4"> Hi you <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="29" width="29">, I'm [Daisy!](https://www.linkedin.com/in/daisymonte) 
+## <img align="center" height="40" width="40" src="https://avatars.githubusercontent.com/u/168166?s=80&v=4"> Hi you <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="29" width="29">, I'm [Daisy!](https://www.linkedin.com/in/daisymonte) 
 
 
 <div align="center">
@@ -17,8 +17,6 @@
   ##
  
 <div> 
-  
-   
   ![Snake animation](https://github.com/DaisyMonte/DaisyMonte/blob/output/github-contribution-grid-snake.svg)
 </div>
 
